@@ -20,5 +20,6 @@ In this step the application should be able to render an in-App message queued b
 *This was achieved by first initializing the inAppManager and then getting a list of all queued up messages using the getMessages method. Then it was just a matter of looping through the messages and rendering them one by one using the showMessage method. The screenshot of the rendered message is actually a piece of art with a congratulations test for completeing the test*
 
 
+![image](https://user-images.githubusercontent.com/20185352/116001624-577dcc80-a5c3-11eb-9980-3333847b1487.png)
 
 
